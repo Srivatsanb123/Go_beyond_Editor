@@ -1,0 +1,26 @@
+{
+  "name": "go_beyond",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ace-builds": "^1.24.1",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.5.0",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "express": "^4.18.2",
+    "next": "13.4.19",
+    "postcss": "8.4.28",
+    "qs": "^6.11.2",
+    "react": "18.2.0",
+    "react-ace": "^10.1.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3"
+  }
+}
